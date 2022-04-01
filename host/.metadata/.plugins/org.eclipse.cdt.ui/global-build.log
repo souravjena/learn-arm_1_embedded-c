@@ -1,0 +1,18 @@
+13:59:07 **** Build of configuration Debug for project 01_test ****
+make all 
+Building file: ../main.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"main.d" -MT"main.o" -o "main.o" "../main.c"
+Finished building: ../main.c
+ 
+Building target: 01_test
+Invoking: GCC C Linker
+gcc  -o "01_test"  ./main.o   
+Finished building target: 01_test
+ 
+13:59:14 **** Incremental Build of configuration Debug for project 01_test ****
+make all 
+make: Nothing to be done for 'all'.
+13:59:29 **** Incremental Build of configuration Debug for project 01_test ****
+make all 
+make: Nothing to be done for 'all'.

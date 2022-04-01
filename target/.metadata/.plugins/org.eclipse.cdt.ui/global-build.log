@@ -1,0 +1,21 @@
+21:52:52 **** Incremental Build of configuration Debug for project 03_add ****
+make -j8 all 
+arm-none-eabi-size   03_add.elf 
+   text	   data	    bss	    dec	    hex	filename
+    728	     16	   1568	   2312	    908	03_add.elf
+Finished building: default.size.stdout
+ 
+22:00:06 **** Incremental Build of configuration Debug for project 03_add ****
+make -j8 all 
+arm-none-eabi-size   03_add.elf 
+   text	   data	    bss	    dec	    hex	filename
+    728	     16	   1568	   2312	    908	03_add.elf
+Finished building: default.size.stdout
+ 
+22:17:15 **** Incremental Build of configuration Debug for project 03_add ****
+make -j8 all 
+arm-none-eabi-size   03_add.elf 
+   text	   data	    bss	    dec	    hex	filename
+    728	     16	   1568	   2312	    908	03_add.elf
+Finished building: default.size.stdout
+ 
