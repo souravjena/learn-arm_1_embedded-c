@@ -197,3 +197,66 @@ java.lang.NullPointerException
 
 !ENTRY org.eclipse.core.jobs 2 2 2022-04-01 01:20:52.034
 !MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.remote.internal.console.TerminalConsoleConnector$2
+!SESSION 2022-04-03 15:14:33.062 -----------------------------------------------
+eclipse.buildId=Version 1.9.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-04-03 15:14:39.243
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-04-03 15:14:39.293
+!MESSAGE Log4j initialized with config file /home/sourav/google_drive/my_github/moocs/1_embedded_arm/workspace/target/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-04-03 15:14:43.394
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2022-04-04 19:31:20.365 -----------------------------------------------
+eclipse.buildId=Version 1.9.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/sourav/google_drive/my_github/moocs/1_embedded_arm/workspace/target -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-04-04 19:31:23.514
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-04-04 19:31:23.556
+!MESSAGE Log4j initialized with config file /home/sourav/google_drive/my_github/moocs/1_embedded_arm/workspace/target/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-04-04 19:31:27.644
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-04-04 19:32:17.126
+!MESSAGE Indexed '04_led_on' (3 sources, 53 headers) in 0.789 sec: 1,949 declarations; 2,811 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0.042%)
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2022-04-04 19:49:16.573
+!MESSAGE Target not available.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2022-04-04 19:49:46.498
+!MESSAGE Target not available.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2022-04-04 19:52:45.046
+!MESSAGE Target not available.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2022-04-04 19:53:27.070
+!MESSAGE Target not available.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2022-04-04 19:54:48.478
+!MESSAGE Target not available.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2022-04-04 19:55:53.667
+!MESSAGE Target not available.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2022-04-04 19:57:36.956
+!MESSAGE Target not available.
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-04-04 20:20:37.309
+!MESSAGE Indexed '05_blinky' (3 sources, 53 headers) in 0.43 sec: 1,949 declarations; 2,811 references; 0 unresolved inclusions; 2 syntax errors; 2 unresolved names (0.042%)
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2022-04-04 20:26:19.345
+!MESSAGE Target not available.
+
+!ENTRY org.eclipse.cdt.dsf 4 10001 2022-04-04 20:26:48.970
+!MESSAGE Target not available.

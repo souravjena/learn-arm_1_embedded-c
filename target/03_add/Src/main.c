@@ -18,6 +18,7 @@ int main(void){
 	global_sum = global_x + global_y;
 
 	while(1){
+		// infinite loop
 	}
 
 	return 0;
